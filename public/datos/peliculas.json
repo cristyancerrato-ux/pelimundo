@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "title": "Avatar",
+    "year": 2025,
+    "genre": "Aventura",
+    "poster": "/imagenes/Avatar.jpg",
+    "rating": 8.1,
+    "description": "La familia de Jake y Neytiri lucha contra una tribu Navi hostil, los Pueblo de Ceniza, liderados por la implacable Varang, mientras lidian con la pérdida de su hijo Neteyam, enfrentándose a nuevos dilemas morales y expandiendo el universo de Pandora con tribus como los comerciantes del viento."
+  },
+  {
+    "id": "2",
+    "title": "Asesino",
+    "year": 2025,
+    "genre": "Terror",
+    "poster": "/imagenes/Asesino.jpg",
+    "rating": 7.4,
+    "description": "Pelicula de miedo."
+  },
+  {
+    "id": "3",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": "Después de la extraña desaparición de un niño, un pueblo se encuentra ante un misterio que revela experimentos secretos, fuerzas sobrenaturales y a una niña muy especial.."
+  },
+  {
+    "id": "4",
+    "title": "IT",
+    "year": 2019,
+    "genre": "Terror",
+    "poster": "/imagenes/IT.jpg",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "5",
+    "title": "TROLL 2",
+    "year": 2025,
+    "genre": "Acción",
+    "poster": "/imagenes/Trol2.png",
+    "rating": 7.8,
+    "description": "Cuando otro despiadado trol desata una ola de destrucción en su país, Nora, Andreas y el comandante Kris se embarcan en la misión más peligrosa de sus vidas. "
+  },
+  {
+    "id": "6",
+    "title": "Estado de fuga",
+    "year": 2025,
+    "genre": "Drama",
+    "poster": "/imagenes/Estado_Fuga.png",
+    "rating": 7.8,
+    "description": "Un exmilitar atrae a un estudiante hacia una oscura y retorcida amistad en este inquietante drama inspirado en hechos reales sobre una masacre ocurrida en la Bogotá de los años 80"
+  },
+  {
+    "id": "7",
+    "title": "Avatar",
+    "year": 2025,
+    "genre": "Aventura",
+    "poster": "/imagenes/Avatar.jpg",
+    "rating": 8.1,
+    "description": "Avatar: Fuego y cenizas."
+  },
+  {
+    "id": "8",
+    "title": "Asesino",
+    "year": 2025,
+    "genre": "Terror",
+    "poster": "/imagenes/Asesino.jpg",
+    "rating": 7.4,
+    "description": "Pelicula de miedo."
+  },
+  {
+    "id": "9",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "10",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "11",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "12",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "13",
+    "title": "Avatar",
+    "year": 2025,
+    "genre": "Aventura",
+    "poster": "/imagenes/Avatar.jpg",
+    "rating": 8.1,
+    "description": "Avatar: Fuego y cenizas."
+  },
+  {
+    "id": "14",
+    "title": "Asesino",
+    "year": 2025,
+    "genre": "Terror",
+    "poster": "/imagenes/Asesino.jpg",
+    "rating": 7.4,
+    "description": "Pelicula de miedo."
+  },
+  {
+    "id": "15",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "16",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": " "
+  },
+  {
+    "id": "17",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  },
+  {
+    "id": "18",
+    "title": "Stranger Things",
+    "year": 2025,
+    "genre": "Ciencia ficción",
+    "poster": "/imagenes/Stranger_Things.png",
+    "rating": 7.8,
+    "description": ""
+  }
+
+
+  
+]
