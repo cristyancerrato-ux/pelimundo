@@ -55,112 +55,59 @@
   },
   {
     "id": "7",
-    "title": "Avatar",
+    "title": "Mission Imposible",
     "year": 2025,
-    "genre": "Aventura",
-    "poster": "/imagenes/Avatar.jpg",
+    "genre": "Acción",
+    "poster": "/imagenes/Mission.jpg",
     "rating": 8.1,
-    "description": "Avatar: Fuego y cenizas."
+    "description": "El agente Ethan Hunt continúa su misión de impedir que Gabriel controle el tecnológicamente omnipotente programa de IA conocido como la Entidad."
   },
   {
     "id": "8",
-    "title": "Asesino",
+    "title": "Amenaza En El Aire",
     "year": 2025,
     "genre": "Terror",
-    "poster": "/imagenes/Asesino.jpg",
+    "poster": "/imagenes/Amenaza En El Aire.jpg",
     "rating": 7.4,
-    "description": "Pelicula de miedo."
+    "description": "Una Marshal del Aire que transporta a un fugitivo a través de los páramos de Alaska en una avioneta se ve atrapada cuando sospecha que su piloto no es quien dice ser."
   },
   {
     "id": "9",
-    "title": "Stranger Things",
+    "title": "Cómo entrenar a tu dragón",
     "year": 2025,
     "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
+    "poster": "/imagenes/Cómo entrenar a tu dragón.jpg",
     "rating": 7.8,
-    "description": ""
+    "description": "Un joven vikingo aspira a cazar dragones, pero se convierte inesperadamente en amigo de un joven dragón."
   },
   {
     "id": "10",
-    "title": "Stranger Things",
+    "title": "El contador 2",
     "year": 2025,
-    "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
+    "genre": "Misterio-Drama",
+    "poster": "/imagenes/El contador 2.jpg",
     "rating": 7.8,
-    "description": ""
+    "description": "Christian Wolff tiene un talento para resolver problemas complejos. Cuando asesinan a un viejo conocido, que deja un mensaje críptico para buscar al contador, Wolff debe reclutar a su letal hermano Brax para que lo ayude a resolver el caso. Junto con la..."
   },
   {
     "id": "11",
-    "title": "Stranger Things",
+    "title": "Juego de ladrones",
     "year": 2025,
     "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
+    "poster": "/imagenes/Juego de ladrones.jpg",
     "rating": 7.8,
-    "description": ""
+    "description": "Donnie se alía con la mafia Pantera para cometer el mayor robo de diamantes jamás visto. Mientras, Nick, el policía que ya le persiguió en el pasado, se ve arruinado y cansado de ser el cazador, así que le propone unirse a su banda y dar juntos este golpe. Si este desafío tiene éxito, habrán conseguido ejecutar el atraco más importante de la historia."
   },
   {
     "id": "12",
-    "title": "Stranger Things",
+    "title": "La vieja guardia 2",
     "year": 2025,
     "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
+    "poster": "/imagenes/La vieja guardia 2.jpg",
     "rating": 7.8,
-    "description": ""
-  },
-  {
-    "id": "13",
-    "title": "Avatar",
-    "year": 2025,
-    "genre": "Aventura",
-    "poster": "/imagenes/Avatar.jpg",
-    "rating": 8.1,
-    "description": "Avatar: Fuego y cenizas."
-  },
-  {
-    "id": "14",
-    "title": "Asesino",
-    "year": 2025,
-    "genre": "Terror",
-    "poster": "/imagenes/Asesino.jpg",
-    "rating": 7.4,
-    "description": "Pelicula de miedo."
-  },
-  {
-    "id": "15",
-    "title": "Stranger Things",
-    "year": 2025,
-    "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
-    "rating": 7.8,
-    "description": ""
-  },
-  {
-    "id": "16",
-    "title": "Stranger Things",
-    "year": 2025,
-    "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
-    "rating": 7.8,
-    "description": " "
-  },
-  {
-    "id": "17",
-    "title": "Stranger Things",
-    "year": 2025,
-    "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
-    "rating": 7.8,
-    "description": ""
-  },
-  {
-    "id": "18",
-    "title": "Stranger Things",
-    "year": 2025,
-    "genre": "Ciencia ficción",
-    "poster": "/imagenes/Stranger_Things.png",
-    "rating": 7.8,
-    "description": ""
+    "description": "Andy y su equipo de guerreros inmortales continúan su misión de proteger a la humanidad. Esta vez, un nuevo y formidable enemigo amenaza el tejido mismo de la Vieja Guardia."
   }
+  
 
 
   
