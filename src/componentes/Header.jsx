@@ -1,12 +1,12 @@
 import React from "react";
 import { NavLink, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
-import { useCart } from "../context/CartContext"; // <-- IMPORTANTE
+import { useCart } from "../context/CartContext"; 
 import "./Header.css";
 
 export default function Header() {
   const { user, logout } = useAuth();
-  const { totalItems } = useCart(); // <-- OBTIENE ITEMS DEL CARRITO
+  const { totalItems } = useCart(); 
   const navigate = useNavigate();
 
   function handleAuthClick() {
